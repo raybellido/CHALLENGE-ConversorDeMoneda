@@ -68,7 +68,6 @@ public class Principal {
 
                 default:
                     System.out.println("opcion no valida,intente con otra opcion");
-
             }
 
             if (opcion >=1 && opcion<=4) {
